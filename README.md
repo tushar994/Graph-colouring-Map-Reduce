@@ -46,3 +46,6 @@ for example, for the above input the output would be
 1 : 2,5,3
 2 : 1,4
 ```
+
+## To run
+Modify the run.sh provided with the paths to your input, your output, where you put the mapper and reducer, and run it. 
